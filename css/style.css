@@ -1,3 +1,12 @@
 body	{
 	background-color: #3f3217;
 }
+
+h1 {
+	font-family: 'NevisBold' serif;
+	font-style: normal;
+	font-size: 30pt;
+	line-height: 18pt;
+	color: #cfcdb4;
+	text-transform: uppercase;
+}	
