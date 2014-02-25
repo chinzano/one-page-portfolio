@@ -10,3 +10,13 @@ h1 {
 	color: #cfcdb4;
 	text-transform: uppercase;
 }	
+
+span {
+	display: block;
+	font-family: Georgia serif;
+	font-style: italic;
+	font-size: 18pt;
+	line-height: 18pt;
+	color: #af9671;
+}
+
