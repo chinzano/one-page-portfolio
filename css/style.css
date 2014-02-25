@@ -3,20 +3,31 @@ body	{
 }
 
 h1 {
-	font-family: 'NevisBold' serif;
+	font-family: 'NevisBold', serif;
 	font-style: normal;
 	font-size: 30pt;
-	line-height: 18pt;
+	line-height: 48pt;
 	color: #cfcdb4;
 	text-transform: uppercase;
 }	
 
 span {
 	display: block;
-	font-family: Georgia serif;
+	font-family: Georgia, serif;
 	font-style: italic;
 	font-size: 18pt;
 	line-height: 18pt;
-	color: #af9671;
+	color: #af9671;	
+	text-transform: lowercase;
 }
 
+h2 {
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18pt;
+	line-height: 20pt;
+	color: #ea9f3e;	
+	text-transform: uppercase;
+
+}
