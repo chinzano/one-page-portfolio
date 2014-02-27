@@ -12,6 +12,15 @@ h1 {
 	text-transform: uppercase;
 }	
 
+nav a {
+	color: #cfcdb4;
+	text-decoration: none;
+}
+
+a {
+	color: #ea9f3e;
+}
+
 span {
 	display: block;
 	font-family: Georgia, serif;
@@ -31,4 +40,13 @@ h2 {
 	color: #ea9f3e;	
 	text-transform: uppercase;
 
+}
+
+h3	{
+	font-family: Georgia, serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14pt;
+	line-height: 18pt;
+	color: #af9671;	
 }
