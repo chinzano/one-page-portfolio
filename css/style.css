@@ -6,7 +6,7 @@ body	{
 h1 {
 	font-family: 'NevisBold', serif;
 	font-style: normal;
-	font-size: 30pt;
+	font-size: 30px;
 	line-height: 48pt;
 	color: #cfcdb4;
 	text-transform: uppercase;
@@ -16,7 +16,7 @@ h1 {
 nav a {
 	font-family: Arial, sans-serif;
 	font-style: normal;
-	font-size: 18pt;
+	font-size: 18px;
 	line-height: 18pt;
 	color: #af9671;
 	text-decoration: none;
@@ -30,7 +30,8 @@ h1 span {
 	display: block;
 	font-family: Georgia, serif;
 	font-style: italic;
-	font-size: 18pt;
+	font-weight: normal;
+	font-size: 18px;
 	line-height: 18pt;
 	color: #af9671;	
 	text-transform: lowercase;
@@ -41,7 +42,7 @@ h2 {
 	font-family: Arial, sans-serif;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 18pt;
+	font-size: 18px;
 	line-height: 20pt;
 	color: #ea9f3e;	
 	text-transform: uppercase;
@@ -52,7 +53,7 @@ h3	{
 	font-family: Georgia, serif;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 14pt;
+	font-size: 14px;
 	line-height: 18pt;
 	color: #af9671;	
 }
@@ -61,7 +62,7 @@ article h3 {
 	font-family: Georgia, serif;
 	font-style: normal;
 	font-weight: bold;
-	font-size: 14pt;
+	font-size: 14px;
 	line-height: 20pt;
 	color: #af9671;	
 }
@@ -70,7 +71,7 @@ small {
 	font-family: Georgia, serif;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 14pt;
+	font-size: 14px;
 	line-height: 18pt;
 	color: #cfcdb4;	
 }
